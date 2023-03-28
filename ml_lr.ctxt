@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ml_lr
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ cal()
+comment3.params=m
+comment3.target=void\ cal2(double)
+numComments=4
